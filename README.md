@@ -1,5 +1,21 @@
 # gifs_test
+# Cade meu Pet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+## Sobre o projeto
 
-<img src="./gif01.gif"  height="500"> <img src="./gif02.gif"  height="500">
+Uma ferramenta que auxilia no retorno de animais para seus antigo lares ou um novo, pois tambem tem a função de adoção.
+
+Este projeto foi usado no meu TCC para graduação  de Bacharelado em Sistemas de Informação pela UniRedentor e tambem como portfólio pessoal.
+
+<img src="./gif01.gif"  height="500"> <img src="./gif02.gif"  height="500"> <img src="./gif02.gif"  height="500">
+
+## Tecnologias
+
+- Kotlin
+- Arquitetura MVVM
+- Dagger Hilt
+- Coroutines
+- Firebase
+- Google Maps API
+- ViewBinding
+- Navigation Component
